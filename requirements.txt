@@ -1,0 +1,4 @@
+nmap
+pandas
+readline
+json
